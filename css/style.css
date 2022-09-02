@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    border: 0;
+    background-color: antiquewhite;
+}
+
+h1{
+    color: rgba(187, 178, 167, 0.801);
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+
+}
+
+#sec{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#sees{
+    color: black;
+    background-color: black;
+    padding: 30px 30px;
+    margin:0px 370px;
+    border-radius: 3px;
+}
+
+#div{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    justify-content: center;
+    
+}
+
+.btn{
+    padding: 30px 70px;
+    background-color:rgba(240, 255, 255, 0.767);    
+    /* border: solid 2px red; */
+    border-radius: 5px;
+    justify-self: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    border-collapse: separate;
+    
+}
+
+.btn1{
+    padding: 30px 65px;
+    background-color:rgba(240, 255, 255, 0.767);    
+    /* border: solid 2px red; */
+    border-radius: 5px;
+    justify-self: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    border-collapse: separate;
+    
+}
+
+.ends{
+    padding: 30px 70px;
+    background-color: rgba(252, 118, 40, 0.856);
+    /* border: solid 2px red; */
+    border-radius: 5px;
+    font-weight: 900;
+    justify-self: space-between;
+}
+
+.zero{
+    padding: 30px 145px;
+    background-color:rgba(240, 255, 255, 0.767);
+    /* border: solid 2px red; */
+    border-radius: 5px;
+    justify-self: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    border-collapse: separate;
+}

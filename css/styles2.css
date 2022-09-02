@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+
+#div{
+    display: grid;
+    grid-template-columns: 200px 200px repeat(2,200px);
+    grid-template-rows: 150px;
+    gap: 50px;
+    border-radius: 3px;
+    background-color: aqua;
+}
